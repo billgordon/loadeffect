@@ -1,0 +1,21 @@
+{
+  "name": "loadeffect",
+  "version": "0.1.0",
+  "main": [
+    "css/component.css",
+    "js/classie.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "devDependencies": {},
+  "keywords": []
+}
